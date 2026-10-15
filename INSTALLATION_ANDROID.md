@@ -16,11 +16,11 @@ Les applications prévues sont :
 
 | Application | Version initiale prévue | Nom du fichier de publication |
 |---|---|---|
-| Révise ta 5e | Code 10 | `ReviseTa5e.apk` |
+| Révise ta 5e | Code 10 | `ReviseTa5eme.apk` |
 | Suivi de chantier | 2.2.0 (code 22) | `SuiviDeChantier.apk` |
 | ÉcriFacile Suite CM2 | 1.2.1 (code 14) | `EcriFacileCM2.apk` |
 
-**Tant qu'aucune release avec ces fichiers n'apparaît, les téléchargements ne sont pas encore disponibles.**
+**La version 1.0.0 est publiée : les trois APK signées sont disponibles dans les [Releases](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/v1.0.0).**
 
 ## 2. Installer le fichier APK
 
@@ -78,4 +78,4 @@ Si Android affiche « application non installée », un conflit de signature ou 
 
 ---
 
-*Documentation GrandinAPK — 15 octobre 2026. Les versions mentionnées sont les versions préparées ; leur publication effective est annoncée dans Releases.*
+*Documentation GrandinAPK — 15 octobre 2026. Les trois APK de la version 1.0.0 ont été publiées dans Releases.*
