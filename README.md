@@ -1,38 +1,40 @@
 # GrandinAPK — Applications Android
 
-**Page publique officielle pour télécharger et installer les applications GrandinAPK.**
+**Page publique officielle des applications GrandinAPK pour téléphone et tablette Android.**
 
-Les applications sont gratuites à télécharger lorsqu'une version est publiée, mais leur utilisation nécessite **une demande d'activation par e-mail et une validation par l'administrateur**.
+## 📲 Téléchargements officiels — version 1.0.0
 
-## 📲 Applications disponibles prochainement
-
-| Application | Version préparée | Téléchargement |
+| Application | Version | Télécharger l'APK signée |
 |---|---|---|
-| **Révise ta 5e** — Révisions scolaires | Code 10 | À publier |
-| **Suivi de chantier** — Suivi des chantiers | 2.2.0 (code 22) | À publier |
-| **ÉcriFacile Suite CM2** — Écriture et français | 1.2.1 (code 14) | À publier |
+| **Révise ta 5e** — Révisions scolaires | Code 10 | **[Télécharger Révise ta 5e](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/v1.0.0/ReviseTa5eme.apk)** |
+| **Suivi de chantier** — Suivi des chantiers | 2.2.0 (code 22) | **[Télécharger Suivi de chantier](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/v1.0.0/SuiviDeChantier.apk)** |
+| **ÉcriFacile Suite CM2** — Écriture et français | 1.2.1 (code 14) | **[Télécharger ÉcriFacile CM2](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/v1.0.0/EcriFacileCM2.apk)** |
 
-> **État : en attente de publication des APK signées.** Aucun fichier APK officiel n'est encore disponible dans ce dépôt. Les liens de téléchargement apparaîtront dans **Releases** après publication.
+📦 **[Voir la publication officielle v1.0.0 et ses trois fichiers](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/v1.0.0)**
 
-### ➜ [Télécharger les applications (Releases)](https://github.com/kgrandin49-star/grandinapk-downloads/releases)
+📖 **[Lire le mode d'emploi Android, installation et activation par e-mail](INSTALLATION_ANDROID.md)**
 
-### ➜ [Mode d'emploi complet : installation Android + activation par e-mail](INSTALLATION_ANDROID.md)
+## 🔐 Activation obligatoire par e-mail
 
-## Comment ça marche ?
+**L'installation ne donne pas automatiquement accès à l'application.** L'utilisation nécessite une **demande d'activation avec une adresse e-mail valide**, suivie de la **validation par l'administrateur GrandinAPK**.
 
-1. **Téléchargez** l'APK signée correspondant à votre application dans les **Releases**.
-2. **Installez-la** sur votre téléphone ou tablette Android en suivant le [guide pas à pas](INSTALLATION_ANDROID.md).
-3. **Demandez l'activation avec votre adresse e-mail** dans l'application.
-4. **Attendez la validation de l'administrateur GrandinAPK**, puis ouvrez à nouveau l'application.
+1. **Téléchargez** l'APK de votre application en utilisant l'un des liens ci-dessus.
+2. **Installez-la** sur votre appareil Android, comme expliqué dans le [guide pas à pas](INSTALLATION_ANDROID.md).
+3. **Lancez l'application** et suivez ses instructions pour demander l'activation par e-mail.
+4. **Attendez la validation de l'administrateur**, puis revenez dans l'application pour vérifier votre accès.
 
-L'installation ne remplace pas l'activation : **une demande envoyée n'est pas automatiquement acceptée**.
+La procédure précise et les messages affichés dépendent de l'application.
 
-## Mises à jour et aide
+## 🔄 Mises à jour et dépannage
 
-Pour mettre l'application à jour, installez la nouvelle APK signée **sans supprimer l'application existante**, afin de préserver autant que possible ses données locales. En cas de conflit de signature ou de message « Application non installée », consultez la section dépannage du [mode d'emploi](INSTALLATION_ANDROID.md) **avant toute désinstallation**.
+Pour mettre une application à jour, récupérez la nouvelle APK signée dans les [Releases](https://github.com/kgrandin49-star/grandinapk-downloads/releases). **Ne désinstallez pas votre version existante avant une mise à jour normale**, car cela pourrait supprimer ses données locales.
 
-**Sécurité :** ce dépôt ne contient pas le code source privé, les bases d'activation, les identifiants d'administration ni la clé privée de signature.
+Si Android annonce un conflit de signature, une incompatibilité ou « Application non installée », **arrêtez-vous avant toute désinstallation** et consultez le [guide d'installation](INSTALLATION_ANDROID.md).
+
+## 🔒 Sécurité
+
+Téléchargez uniquement les fichiers APK signés des **Releases officielles**. Ce dépôt public ne contient ni code source privé, ni bases d'activation, ni identifiants administrateur, ni clé privée de signature.
 
 ---
 
-*GrandinAPK — Documentation destinée aux utilisateurs Android.*
+*GrandinAPK — Documentation publique Android — 15 octobre 2026.*
