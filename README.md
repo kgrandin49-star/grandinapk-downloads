@@ -14,11 +14,21 @@
 
 📖 **[Lire le mode d'emploi Android, installation et activation par e-mail](INSTALLATION_ANDROID.md)**
 
-## 🔐 Activation obligatoire par e-mail
+## 🌳 Notre Arbre — préversion de test V1.0.2
 
-**L'installation ne donne pas automatiquement accès à l'application.** L'utilisation nécessite une **demande d'activation avec une adresse e-mail valide**, suivie de la **validation par l'administrateur GrandinAPK**.
+| Application | Version | Télécharger l'APK signée |
+|---|---|---|
+| **Notre Arbre** — généalogie familiale | 1.0.2 (code 3) — **test** | **[Télécharger Notre Arbre](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/notre-arbre-v1.0.2-test/NotreArbre-1.0.2.apk)** |
 
-1. **Téléchargez** l'APK de votre application en utilisant l'un des liens ci-dessus.
+> **Version de test, non encore destinée à une diffusion générale.**
+> **Aucune validation manuelle d'installation n'est requise** : Notre Arbre s'installe et s'utilise directement, sans demande d'activation, sans code et sans autorisation administrateur.
+> L'APK est signé avec le certificat GrandinAPK d'origine ; l'installation peut se faire par-dessus la V1.0.1 sans désinstallation.
+
+## 🔐 Activation obligatoire par e-mail — Révise ta 5e, Suivi de chantier et ÉcriFacile
+
+**Pour ces trois applications, l'installation ne donne pas automatiquement accès à l'application.** L'utilisation nécessite une **demande d'activation avec une adresse e-mail valide**, suivie de la **validation par l'administrateur GrandinAPK**. **Notre Arbre n'est pas concerné par cette validation.**
+
+1. **Téléchargez** l'APK de l'une des trois applications concernées en utilisant les liens du tableau 1.0.0.
 2. **Installez-la** sur votre appareil Android, comme expliqué dans le [guide pas à pas](INSTALLATION_ANDROID.md).
 3. **Lancez l'application** et suivez ses instructions pour demander l'activation par e-mail.
 4. **Attendez la validation de l'administrateur**, puis revenez dans l'application pour vérifier votre accès.
@@ -37,4 +47,4 @@ Téléchargez uniquement les fichiers APK signés des **Releases officielles**. 
 
 ---
 
-*GrandinAPK — Documentation publique Android — 15 octobre 2026.*
+*GrandinAPK — Documentation publique Android — 17 octobre 2026.*
