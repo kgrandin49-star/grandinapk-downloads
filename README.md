@@ -2,11 +2,13 @@
 
 **Page publique officielle des applications GrandinAPK pour téléphone et tablette Android.**
 
-## 🏫 Révise ton collège V12 — diffusion en préparation
+## 🏫 Révise ton collège V12 — disponible sur Android
 
-La V12 (code 12) a été installée et déclarée fonctionnelle sur Android. Elle ajoute les thèmes scolaires, le choix de classe au démarrage et l'affichage plein écran. **L'APK signée n'est pas encore jointe aux Releases publiques** : le lien de téléchargement V12 sera ajouté après téléversement et vérification du fichier signé.
+**[Télécharger l'APK V12 signée](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/revise-ton-college-v12/ReviseTonCollege-v12-SIGNED.apk)** — code 12, version 8.3-college, mise à jour de Révise ta 5e.
 
-📖 **[Notice publique de publication et de mise à jour V12](PUBLICATION_REVISE_TON_COLLEGE_V12.md)**
+Nouveautés : interface plus scolaire, thèmes Neutre / Garçon / Fille, choix de classe au démarrage et meilleur affichage plein écran. **Installer par-dessus l'ancienne version sans désinstallation** afin de conserver les données et l'activation.
+
+📦 **[Release officielle V12](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/revise-ton-college-v12)** · 🔐 **[Empreinte SHA-256](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/revise-ton-college-v12/ReviseTonCollege-v12-SIGNED.apk.sha256)** · 📖 **[Notice V12](PUBLICATION_REVISE_TON_COLLEGE_V12.md)**
 
 ## 📲 Téléchargements officiels — version 1.0.0
 
