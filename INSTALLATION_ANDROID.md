@@ -1,6 +1,6 @@
 # Installer les applications GrandinAPK sur Android
 
-Ce guide est destiné aux utilisateurs de **Révise ta 5e**, **Suivi de chantier** et **ÉcriFacile Suite CM2**. Aucun ordinateur n'est nécessaire.
+Ce guide est destiné aux utilisateurs de **Révise ton collège**, **Suivi de chantier** et **ÉcriFacile Suite CM2**. Aucun ordinateur n'est nécessaire.
 
 > **Important :** installer une application ne donne pas automatiquement accès à son contenu. **Une validation par e-mail et l'autorisation de l'administrateur GrandinAPK sont nécessaires.**
 
@@ -16,11 +16,11 @@ Les applications prévues sont :
 
 | Application | Version initiale prévue | Nom du fichier de publication |
 |---|---|---|
-| Révise ta 5e | Code 10 | `ReviseTa5eme.apk` |
+| **Révise ton collège** | **V12 (code 12)** | **`ReviseTonCollege-v12-SIGNED.apk`** |
 | Suivi de chantier | 2.2.0 (code 22) | `SuiviDeChantier.apk` |
 | ÉcriFacile Suite CM2 | 1.2.1 (code 14) | `EcriFacileCM2.apk` |
 
-**La version 1.0.0 est publiée : les trois APK signées sont disponibles dans les [Releases](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/v1.0.0).**
+**La V12 de Révise ton collège est publiée : [télécharger l'APK signée V12](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/revise-ton-college-v12/ReviseTonCollege-v12-SIGNED.apk).** Les autres APK et anciennes versions sont disponibles dans les [Releases](https://github.com/kgrandin49-star/grandinapk-downloads/releases).
 
 ## 2. Installer le fichier APK
 
@@ -78,4 +78,4 @@ Si Android affiche « application non installée », un conflit de signature ou 
 
 ---
 
-*Documentation GrandinAPK — 15 octobre 2026. Les trois APK de la version 1.0.0 ont été publiées dans Releases.*
+*Documentation GrandinAPK — mise à jour le 19 octobre 2026. Révise ton collège V12 est disponible en APK signée.*
