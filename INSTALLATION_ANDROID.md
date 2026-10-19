@@ -14,7 +14,7 @@ Ce guide est destiné aux utilisateurs de **Révise ton collège**, **Suivi de c
 
 Les applications prévues sont :
 
-| Application | Version initiale prévue | Nom du fichier de publication |
+| Application | Version disponible | Nom du fichier de publication |
 |---|---|---|
 | **Révise ton collège** | **V12 (code 12)** | **`ReviseTonCollege-v12-SIGNED.apk`** |
 | Suivi de chantier | 2.2.0 (code 22) | `SuiviDeChantier.apk` |
