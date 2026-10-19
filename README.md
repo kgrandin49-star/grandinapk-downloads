@@ -27,6 +27,26 @@
 > **Aucune validation manuelle d'installation n'est requise** : Notre Arbre s'installe et s'utilise directement, sans demande d'activation, sans code et sans autorisation administrateur. GrandinAPK Admin V2 supervise uniquement les installations et ne bloque pas les familles.
 > L'APK V1.0.3 est signé avec le certificat GrandinAPK d'origine ; la mise à jour peut se faire par-dessus la V1.0.2 sans désinstallation afin de conserver les données.
 
+## 🍎 Installer Notre Arbre sur iPhone (Safari)
+
+**Notre Arbre est également accessible sur iPhone et iPad**, sans APK ni téléchargement depuis GitHub : utilisez la **version Web installable (PWA)**.
+
+👉 **[Ouvrir Notre Arbre sur iPhone / iPad](https://notre-arbre.pages.dev)**
+
+Pour l'ajouter à l'écran d'accueil :
+
+1. Ouvrez **Safari** sur l'iPhone ou l'iPad (et non le navigateur intégré à une autre application).
+2. Rendez-vous sur **https://notre-arbre.pages.dev**.
+3. Touchez le bouton **Partager** de Safari, puis **Sur l'écran d'accueil** (ou « Ajouter à l'écran d'accueil », suivant la version d'iOS).
+4. Touchez **Ajouter** : l'icône **Notre Arbre** apparaît sur l'écran d'accueil.
+5. Lancez Notre Arbre depuis cette icône, puis connectez-vous à votre compte ou créez-en un.
+
+**Bon à savoir :**
+- Il s'agit actuellement d'une **application Web installable (PWA)**, **pas** d'une application iOS native (.ipa) ni d'une application publiée sur l'**App Store**.
+- La connexion utilise les comptes Notre Arbre existants ; aucune validation manuelle GrandinAPK Admin V2 n'est requise.
+- Une connexion Internet est nécessaire pour accéder aux données familiales synchronisées. Certaines fonctions peuvent différer d'une application iOS native.
+- Cette possibilité d'installation est proposée aux utilisateurs iPhone ; des tests spécifiques sur appareil iOS restent à finaliser.
+
 ## 🔐 Activation obligatoire par e-mail — Révise ta 5e, Suivi de chantier et ÉcriFacile
 
 **Pour ces trois applications, l'installation ne donne pas automatiquement accès à l'application.** L'utilisation nécessite une **demande d'activation avec une adresse e-mail valide**, suivie de la **validation par l'administrateur GrandinAPK**. **Notre Arbre n'est pas concerné par cette validation.**
