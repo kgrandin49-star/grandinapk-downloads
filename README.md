@@ -10,15 +10,15 @@ Nouveautés : interface plus scolaire, thèmes Neutre / Garçon / Fille, choix d
 
 📦 **[Release officielle V12](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/revise-ton-college-v12)** · 🔐 **[Empreinte SHA-256](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/revise-ton-college-v12/ReviseTonCollege-v12-SIGNED.apk.sha256)** · 📖 **[Notice V12](PUBLICATION_REVISE_TON_COLLEGE_V12.md)**
 
-## 📲 Téléchargements officiels — version 1.0.0
+## 📲 Téléchargements officiels — dernières versions
 
 | Application | Version | Télécharger l'APK signée |
 |---|---|---|
-| **Révise ta 5e** — Révisions scolaires | Code 10 | **[Télécharger Révise ta 5e](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/v1.0.0/ReviseTa5eme.apk)** |
+| **Révise ton collège** — Révisions scolaires (6e, 5e, 4e, 3e) | **V12 · code 12** | **[Télécharger Révise ton collège V12](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/revise-ton-college-v12/ReviseTonCollege-v12-SIGNED.apk)** |
 | **Suivi de chantier** — Suivi des chantiers | 2.2.0 (code 22) | **[Télécharger Suivi de chantier](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/v1.0.0/SuiviDeChantier.apk)** |
 | **ÉcriFacile Suite CM2** — Écriture et français | 1.2.1 (code 14) | **[Télécharger ÉcriFacile CM2](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/v1.0.0/EcriFacileCM2.apk)** |
 
-📦 **[Voir la publication officielle v1.0.0 et ses trois fichiers](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/v1.0.0)**
+📦 **[Voir toutes les versions officielles](https://github.com/kgrandin49-star/grandinapk-downloads/releases)** · **[Anciennes versions V1.0.0](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/v1.0.0)**
 
 📖 **[Lire le mode d'emploi Android, installation et activation par e-mail](INSTALLATION_ANDROID.md)**
 
@@ -55,11 +55,11 @@ Pour l'ajouter à l'écran d'accueil :
 - Une connexion Internet est nécessaire pour accéder aux données familiales synchronisées. Certaines fonctions peuvent différer d'une application iOS native.
 - Cette possibilité d'installation est proposée aux utilisateurs iPhone ; des tests spécifiques sur appareil iOS restent à finaliser.
 
-## 🔐 Activation obligatoire par e-mail — Révise ta 5e, Suivi de chantier et ÉcriFacile
+## 🔐 Activation obligatoire par e-mail — Révise ton collège, Suivi de chantier et ÉcriFacile
 
 **Pour ces trois applications, l'installation ne donne pas automatiquement accès à l'application.** L'utilisation nécessite une **demande d'activation avec une adresse e-mail valide**, suivie de la **validation par l'administrateur GrandinAPK**. **Notre Arbre n'est pas concerné par cette validation.**
 
-1. **Téléchargez** l'APK de l'une des trois applications concernées en utilisant les liens du tableau 1.0.0.
+1. **Téléchargez** l'APK de l'une des trois applications concernées en utilisant les liens du tableau « Dernières versions ».
 2. **Installez-la** sur votre appareil Android, comme expliqué dans le [guide pas à pas](INSTALLATION_ANDROID.md).
 3. **Lancez l'application** et suivez ses instructions pour demander l'activation par e-mail.
 4. **Attendez la validation de l'administrateur**, puis revenez dans l'application pour vérifier votre accès.
