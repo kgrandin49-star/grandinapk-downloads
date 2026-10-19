@@ -37,4 +37,4 @@ Page des publications : https://github.com/kgrandin49-star/grandinapk-downloads/
 
 ---
 
-Document public de préparation à la diffusion — 19 octobre 2026. Cette notice ne signifie pas à elle seule que le fichier APK signé est déjà attaché à une Release.
+Publication publique vérifiée le 19 octobre 2026 : [Release Révise ton collège V12](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/revise-ton-college-v12). Le fichier `ReviseTonCollege-v12-SIGNED.apk` est disponible et sa somme SHA-256 est `b2be5c4dd4a9cf0d56d412c549f833d0080527c90e33d3a450646cecdc481a75`.
