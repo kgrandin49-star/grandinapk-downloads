@@ -10,6 +10,12 @@ Nouveautés : interface plus scolaire, thèmes Neutre / Garçon / Fille, choix d
 
 📦 **[Release officielle V12](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/revise-ton-college-v12)** · 🔐 **[Empreinte SHA-256](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/revise-ton-college-v12/ReviseTonCollege-v12-SIGNED.apk.sha256)** · 📖 **[Notice V12](PUBLICATION_REVISE_TON_COLLEGE_V12.md)**
 
+## 📘 ÉcriFacile Suite CM2 V1.2.4 — préversion en préparation
+
+Les essais sur Samsung ont confirmé le remplissage de fiches, la sauvegarde, l'export PDF et les dossiers visuels. La validation sur Lenovo Tab P11 reste à effectuer. **L'APK signée V1.2.4 n'a pas encore été publiée** : la version actuellement téléchargeable figure dans le tableau ci-dessous.
+
+📖 **[Voir la notice publique V1.2.4](PUBLICATION_ECRIFACILE_CM2_V124.md)**
+
 ## 📲 Téléchargements officiels — dernières versions
 
 | Application | Version | Télécharger l'APK signée |
