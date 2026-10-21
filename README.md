@@ -28,18 +28,23 @@ Les essais sur Samsung ont confirmé le remplissage de fiches, la sauvegarde, l'
 
 📖 **[Lire le mode d'emploi Android, installation et activation par e-mail](INSTALLATION_ANDROID.md)**
 
-## 🌳 Notre Arbre — préversion de test V1.0.3
+## 🌳 Notre Arbre — préversion de test V1.0.4
 
 | Application | Version | Télécharger l'APK signée |
 |---|---|---|
-| **Notre Arbre** — généalogie familiale | 1.0.3 (code 4) — **test** | **[Télécharger Notre Arbre V1.0.3](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/notre-arbre-v1.0.3-test/NotreArbre-1.0.3-signed.apk)** |
-| **Notre Arbre** — version précédente conservée | 1.0.2 (code 3) | **[Télécharger Notre Arbre V1.0.2](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/notre-arbre-v1.0.2-test/NotreArbre-1.0.2.apk)** |
+| **Notre Arbre** — généalogie familiale, dernière préversion | **1.0.4 (code 5) — test** | **[Télécharger Notre Arbre V1.0.4](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/notre-arbre-v1.0.4-test/NotreArbre-1.0.4-signed.apk)** |
+| **Notre Arbre** — version précédente conservée | 1.0.3 (code 4) — test | **[Télécharger Notre Arbre V1.0.3](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/notre-arbre-v1.0.3-test/NotreArbre-1.0.3-signed.apk)** |
+| **Notre Arbre** — version antérieure conservée | 1.0.2 (code 3) | **[Télécharger Notre Arbre V1.0.2](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/notre-arbre-v1.0.2-test/NotreArbre-1.0.2.apk)** |
 
-📦 **[Release V1.0.3](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/notre-arbre-v1.0.3-test)** · 🔐 **[Empreinte SHA-256](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/notre-arbre-v1.0.3-test/NotreArbre-1.0.3-signed.apk.sha256)** · 📖 **[Notice d'installation V1.0.3](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/notre-arbre-v1.0.3-test/INSTALLATION-V1.0.3.md)**
+📦 **[Release V1.0.4](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/notre-arbre-v1.0.4-test)** · 🔐 **[Empreinte SHA-256 V1.0.4](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/notre-arbre-v1.0.4-test/NotreArbre-1.0.4-signed.apk.sha256)** · 📖 **[Notice V1.0.3 archivée](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/notre-arbre-v1.0.3-test/INSTALLATION-V1.0.3.md)**
 
-> **Version de test, non encore destinée à une diffusion générale.**
-> **Aucune validation manuelle d'installation n'est requise** : Notre Arbre s'installe et s'utilise directement, sans demande d'activation, sans code et sans autorisation administrateur. GrandinAPK Admin V2 supervise uniquement les installations et ne bloque pas les familles.
-> L'APK V1.0.3 est signé avec le certificat GrandinAPK d'origine ; la mise à jour peut se faire par-dessus la V1.0.2 sans désinstallation afin de conserver les données.
+**Correctifs V1.0.4 :** choix explicite de la filiation (dont biologique) lors de la création du foyer, modification du type de filiation existante sans recréer les fiches, recentrage sur la fiche personnelle. Correctifs serveur correspondants déployés sur Cloudflare.
+
+> **Préversion en test, non encore validée pour une diffusion générale.** La persistance réelle des filiations après reconnexion reste à confirmer sur appareil.
+>
+> **Mise à jour :** installer la V1.0.4 par-dessus la version précédente, sans désinstallation. Même identifiant Android `fr.notrearbre.app` et même certificat de signature GrandinAPK que les versions antérieures. Effectuer une sauvegarde avant mise à jour ; en cas d'erreur de signature, ne pas désinstaller l'ancienne application.
+>
+> **Activation :** aucune validation manuelle GrandinAPK Admin n'est requise pour Notre Arbre. Les comptes et droits familiaux restent distincts de la télémétrie d'installation.
 
 ## 🍎 Installer Notre Arbre sur iPhone (Safari)
 
@@ -84,4 +89,4 @@ Téléchargez uniquement les fichiers APK signés des **Releases officielles**. 
 
 ---
 
-*GrandinAPK — Documentation publique Android — 19 octobre 2026.*
+*GrandinAPK — Documentation publique Android — 21 octobre 2026.*
