@@ -18,9 +18,9 @@ Les applications prévues sont :
 |---|---|---|
 | **Révise ton collège** | **V12 (code 12)** | **`ReviseTonCollege-v12-SIGNED.apk`** |
 | Suivi de chantier | 2.2.0 (code 22) | `SuiviDeChantier.apk` |
-| ÉcriFacile Suite CM2 | 1.2.1 (code 14) | `EcriFacileCM2.apk` |
+| ÉcriFacile Suite CM2 | **1.2.4 (code 18), préversion** | `EcriFacile_CM2_v18_SIGNEE.apk` |
 
-**La V12 de Révise ton collège est publiée : [télécharger l'APK signée V12](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/revise-ton-college-v12/ReviseTonCollege-v12-SIGNED.apk).** Les autres APK et anciennes versions sont disponibles dans les [Releases](https://github.com/kgrandin49-star/grandinapk-downloads/releases).
+**Téléchargements directs :** [Révise ton collège V12](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/revise-ton-college-v12/ReviseTonCollege-v12-SIGNED.apk) · [ÉcriFacile V1.2.4 — préversion](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/ecrifacile-cm2-v1.2.4-test/EcriFacile_CM2_v18_SIGNEE.apk) · [Toutes les Releases](https://github.com/kgrandin49-star/grandinapk-downloads/releases).
 
 ## 2. Installer le fichier APK
 
@@ -78,4 +78,4 @@ Si Android affiche « application non installée », un conflit de signature ou 
 
 ---
 
-*Documentation GrandinAPK — mise à jour le 19 octobre 2026. Révise ton collège V12 est disponible en APK signée.*
+*Documentation GrandinAPK — mise à jour le 23 octobre 2026. ÉcriFacile V1.2.4 est disponible en préversion signée.*
