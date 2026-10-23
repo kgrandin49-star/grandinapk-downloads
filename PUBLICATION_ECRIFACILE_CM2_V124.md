@@ -1,6 +1,6 @@
 # ÉcriFacile · Suite CM2 — V1.2.4 (code 18)
 
-> **Statut : publication de la préversion en préparation.** La notice est publique, mais le fichier APK V1.2.4 signé n'a pas encore été déposé dans une Release. Ne téléchargez pas l'APK non signée du dépôt de développement.
+> **Statut : préversion Android publiée le 23 octobre 2026.** **[Télécharger l'APK V1.2.4 signée](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/ecrifacile-cm2-v1.2.4-test/EcriFacile_CM2_v18_SIGNEE.apk)** · **[Release GitHub](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/ecrifacile-cm2-v1.2.4-test)** · **[Empreinte SHA-256](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/ecrifacile-cm2-v1.2.4-test/EcriFacile_CM2_v18_SIGNEE.apk.sha256)**. La validation sur Lenovo Tab P11 reste à effectuer.
 
 ## ÉcriFacile : un cartable numérique accessible sur Android
 
@@ -24,7 +24,7 @@ Application d'aide au travail scolaire de niveau CM2, destinée à simplifier la
 
 ### Installation et conservation des documents
 
-1. Quand elle sera disponible, télécharger **uniquement l'APK signée** depuis les [Releases officielles GrandinAPK](https://github.com/kgrandin49-star/grandinapk-downloads/releases).
+1. Télécharger **uniquement [l'APK signée V1.2.4](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/ecrifacile-cm2-v1.2.4-test/EcriFacile_CM2_v18_SIGNEE.apk)** depuis la [Release officielle](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/ecrifacile-cm2-v1.2.4-test).
 2. Sur l'appareil concerné, effectuer de préférence une **sauvegarde du cartable** avant la mise à jour.
 3. Installer par-dessus une précédente version ÉcriFacile **uniquement si le certificat de signature correspond** ; ne pas désinstaller l'ancienne application en cas de conflit.
 4. Sur un profil Android supervisé (Family Link), respecter les autorisations du parent et les restrictions d'installation ; l'installation peut nécessiter un contrôle supplémentaire.
@@ -45,14 +45,14 @@ Le fichier local `EcriFacile_CM2_v18_SIGNEE.apk` a été reçu et contrôlé sé
 
 - **SHA-256 du fichier APK :** `259d26dfbc1a02ab4c54efe926235f66db4c69311d4f32b0cd562d4e521d4cea`
 - **SHA-256 du certificat de signature GrandinAPK :** `c866aa7ce79b82adaf68727858d32ec16d6cfc3e0b953ae2f911fd4dd49fc50b`
-- **Statut de distribution :** l'APK signée est vérifiée **mais pas encore attachée à une Release publique**. L'empreinte ci-dessus permet de contrôler le téléchargement *une fois qu'il sera mis en ligne*.
+- **Statut de distribution :** la préversion est **publiée**. Le fichier téléchargé depuis la [Release GitHub](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/ecrifacile-cm2-v1.2.4-test) a la même empreinte SHA-256 que le fichier local signé préalablement contrôlé.
 
-## Informations de la future Release
+## Informations de la Release publiée
 
-- **Tag prévu :** `ecrifacile-cm2-v1.2.4-test`
+- **Tag :** `ecrifacile-cm2-v1.2.4-test`
 - **Nom :** `ÉcriFacile Suite CM2 V1.2.4 — Préversion Android`
-- **APK attendue :** `EcriFacile_CM2_v18_SIGNEE.apk` (signée localement avec le certificat d'ÉcriFacile, puis contrôlée avant publication)
-- **Fichier de contrôle :** `EcriFacile_CM2_v18_SIGNEE.apk.sha256`
-- **Statut GitHub :** cocher « Set as a pre-release » tant que le test Lenovo n'est pas terminé.
+- **APK publiée :** [`EcriFacile_CM2_v18_SIGNEE.apk`](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/ecrifacile-cm2-v1.2.4-test/EcriFacile_CM2_v18_SIGNEE.apk) — signée avec le certificat d'ÉcriFacile et contrôlée avant publication
+- **Fichier de contrôle :** [`EcriFacile_CM2_v18_SIGNEE.apk.sha256`](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/ecrifacile-cm2-v1.2.4-test/EcriFacile_CM2_v18_SIGNEE.apk.sha256)
+- **Statut GitHub :** préversion (prerelease), validation Lenovo encore à effectuer.
 
-**Attention :** cette page ne constitue pas une preuve qu'une APK signée V1.2.4 est publiée. Vérifiez toujours que la Release et ses fichiers sont réellement présents avant de partager un lien de téléchargement.
+**Vérification de publication :** la Release est publique (`draft=false`), l'APK signée et son fichier SHA-256 sont joints. Ne pas confondre cette préversion avec une validation finale sur Lenovo.
