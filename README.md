@@ -12,7 +12,7 @@ Nouveautés : interface plus scolaire, thèmes Neutre / Garçon / Fille, choix d
 
 ## 📘 ÉcriFacile Suite CM2 V1.2.4 — préversion en préparation
 
-Les essais sur Samsung ont confirmé le remplissage de fiches, la sauvegarde, l'export PDF et les dossiers visuels. La validation sur Lenovo Tab P11 reste à effectuer. **L'APK signée V1.2.4 n'a pas encore été publiée** : la version actuellement téléchargeable figure dans le tableau ci-dessous.
+Les essais sur Samsung ont confirmé le remplissage de fiches, la sauvegarde, l'export PDF et les dossiers visuels. La validation sur Lenovo Tab P11 reste à effectuer. **L'APK signée V1.2.4 a été vérifiée (certificat et intégrité), mais n'a pas encore été déposée dans une Release publique.** La version actuellement téléchargeable figure dans le tableau ci-dessous.
 
 📖 **[Voir la notice publique V1.2.4](PUBLICATION_ECRIFACILE_CM2_V124.md)**
 
