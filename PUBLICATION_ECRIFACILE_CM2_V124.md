@@ -39,7 +39,15 @@ Ne transmettez pas de fiches d'élèves remplies, de captures contenant des donn
 
 La publication d'une APK sur GitHub ne signifie pas que le code source privé de l'application est ouvert ou sous licence libre.
 
-### Informations de la future Release
+### Contrôle de l'APK signée reçue le 23 octobre 2026
+
+Le fichier local `EcriFacile_CM2_v18_SIGNEE.apk` a été reçu et contrôlé séparément : package `fr.ecrifacile.cm2.suitealpha`, version 1.2.4 (code 18), Android 11 minimum, signature Android v2/v3.1 et empreintes de contenu vérifiées.
+
+- **SHA-256 du fichier APK :** `259d26dfbc1a02ab4c54efe926235f66db4c69311d4f32b0cd562d4e521d4cea`
+- **SHA-256 du certificat de signature GrandinAPK :** `c866aa7ce79b82adaf68727858d32ec16d6cfc3e0b953ae2f911fd4dd49fc50b`
+- **Statut de distribution :** l'APK signée est vérifiée **mais pas encore attachée à une Release publique**. L'empreinte ci-dessus permet de contrôler le téléchargement *une fois qu'il sera mis en ligne*.
+
+## Informations de la future Release
 
 - **Tag prévu :** `ecrifacile-cm2-v1.2.4-test`
 - **Nom :** `ÉcriFacile Suite CM2 V1.2.4 — Préversion Android`
