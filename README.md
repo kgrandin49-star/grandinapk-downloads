@@ -10,11 +10,11 @@ Nouveautés : interface plus scolaire, thèmes Neutre / Garçon / Fille, choix d
 
 📦 **[Release officielle V12](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/revise-ton-college-v12)** · 🔐 **[Empreinte SHA-256](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/revise-ton-college-v12/ReviseTonCollege-v12-SIGNED.apk.sha256)** · 📖 **[Notice V12](PUBLICATION_REVISE_TON_COLLEGE_V12.md)**
 
-## 📘 ÉcriFacile Suite CM2 V1.2.4 — préversion en préparation
+## 📘 ÉcriFacile Suite CM2 V1.2.4 — préversion Android publiée
 
-Les essais sur Samsung ont confirmé le remplissage de fiches, la sauvegarde, l'export PDF et les dossiers visuels. La validation sur Lenovo Tab P11 reste à effectuer. **L'APK signée V1.2.4 a été vérifiée (certificat et intégrité), mais n'a pas encore été déposée dans une Release publique.** La version actuellement téléchargeable figure dans le tableau ci-dessous.
+Les essais sur Samsung ont confirmé le remplissage de fiches, la sauvegarde, l'export PDF et les dossiers visuels. La validation sur Lenovo Tab P11 reste à effectuer. **La V1.2.4 signée est publiée en préversion**, avec empreinte SHA-256 vérifiée. Téléchargez l'APK depuis la Release officielle : [ÉcriFacile V1.2.4](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/ecrifacile-cm2-v1.2.4-test).
 
-📖 **[Voir la notice publique V1.2.4](PUBLICATION_ECRIFACILE_CM2_V124.md)**
+📦 **[Release V1.2.4](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/ecrifacile-cm2-v1.2.4-test)** · 🔐 **[Empreinte SHA-256](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/ecrifacile-cm2-v1.2.4-test/EcriFacile_CM2_v18_SIGNEE.apk.sha256)** · 📖 **[Notice V1.2.4](PUBLICATION_ECRIFACILE_CM2_V124.md)**
 
 ## 📲 Téléchargements officiels — dernières versions
 
@@ -22,7 +22,7 @@ Les essais sur Samsung ont confirmé le remplissage de fiches, la sauvegarde, l'
 |---|---|---|
 | **Révise ton collège** — Révisions scolaires (6e, 5e, 4e, 3e) | **V12 · code 12** | **[Télécharger Révise ton collège V12](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/revise-ton-college-v12/ReviseTonCollege-v12-SIGNED.apk)** |
 | **Suivi de chantier** — Suivi des chantiers | 2.2.0 (code 22) | **[Télécharger Suivi de chantier](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/v1.0.0/SuiviDeChantier.apk)** |
-| **ÉcriFacile Suite CM2** — Écriture et français | 1.2.1 (code 14) | **[Télécharger ÉcriFacile CM2](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/v1.0.0/EcriFacileCM2.apk)** |
+| **ÉcriFacile Suite CM2** — Écriture et français, dossiers et fiches PDF | **1.2.4 (code 18) — préversion** | **[Télécharger ÉcriFacile CM2 V1.2.4](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/ecrifacile-cm2-v1.2.4-test/EcriFacile_CM2_v18_SIGNEE.apk)** |
 
 📦 **[Voir toutes les versions officielles](https://github.com/kgrandin49-star/grandinapk-downloads/releases)** · **[Anciennes versions V1.0.0](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/v1.0.0)**
 
