@@ -23,20 +23,17 @@ Les essais sur Samsung ont confirmé le remplissage de fiches, la sauvegarde, l'
 | **Révise ton collège** — Révisions scolaires (6e, 5e, 4e, 3e) | **V12 · code 12** | **[Télécharger Révise ton collège V12](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/revise-ton-college-v12/ReviseTonCollege-v12-SIGNED.apk)** |
 | **Suivi de chantier** — Suivi des chantiers | 2.2.0 (code 22) | **[Télécharger Suivi de chantier](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/v1.0.0/SuiviDeChantier.apk)** |
 | **ÉcriFacile Suite CM2** — Écriture et français, dossiers et fiches PDF | **1.2.4 (code 18) — préversion** | **[Télécharger ÉcriFacile CM2 V1.2.4](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/ecrifacile-cm2-v1.2.4-test/EcriFacile_CM2_v18_SIGNEE.apk)** |
+| **Notre Arbre** — Généalogie collaborative | **1.0.4 (code 5) — test** | **[Télécharger Notre Arbre V1.0.4](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/notre-arbre-v1.0.4-test/NotreArbre-1.0.4-signed.apk)** |
 
-📦 **[Voir toutes les versions officielles](https://github.com/kgrandin49-star/grandinapk-downloads/releases)** · **[Anciennes versions V1.0.0](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/v1.0.0)**
+📦 **[Voir les releases](https://github.com/kgrandin49-star/grandinapk-downloads/releases)** — le catalogue ci-dessus présente uniquement les dernières APK publiées et conservées comme références.
 
 📖 **[Lire le mode d'emploi Android, installation et activation par e-mail](INSTALLATION_ANDROID.md)**
 
 ## 🌳 Notre Arbre — préversion de test V1.0.4
 
-| Application | Version | Télécharger l'APK signée |
-|---|---|---|
-| **Notre Arbre** — généalogie familiale, dernière préversion | **1.0.4 (code 5) — test** | **[Télécharger Notre Arbre V1.0.4](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/notre-arbre-v1.0.4-test/NotreArbre-1.0.4-signed.apk)** |
-| **Notre Arbre** — version précédente conservée | 1.0.3 (code 4) — test | **[Télécharger Notre Arbre V1.0.3](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/notre-arbre-v1.0.3-test/NotreArbre-1.0.3-signed.apk)** |
-| **Notre Arbre** — version antérieure conservée | 1.0.2 (code 3) | **[Télécharger Notre Arbre V1.0.2](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/notre-arbre-v1.0.2-test/NotreArbre-1.0.2.apk)** |
+La dernière version publiée est **1.0.4 (code 5)** ; son lien de téléchargement figure dans le tableau des dernières versions.
 
-📦 **[Release V1.0.4](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/notre-arbre-v1.0.4-test)** · 🔐 **[Empreinte SHA-256 V1.0.4](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/notre-arbre-v1.0.4-test/NotreArbre-1.0.4-signed.apk.sha256)** · 📖 **[Notice V1.0.3 archivée](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/notre-arbre-v1.0.3-test/INSTALLATION-V1.0.3.md)**
+📦 **[Release V1.0.4](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/notre-arbre-v1.0.4-test)** · 🔐 **[Empreinte SHA-256 V1.0.4](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/notre-arbre-v1.0.4-test/NotreArbre-1.0.4-signed.apk.sha256)**
 
 **Correctifs V1.0.4 :** choix explicite de la filiation (dont biologique) lors de la création du foyer, modification du type de filiation existante sans recréer les fiches, recentrage sur la fiche personnelle. Correctifs serveur correspondants déployés sur Cloudflare.
 
@@ -89,4 +86,4 @@ Téléchargez uniquement les fichiers APK signés des **Releases officielles**. 
 
 ---
 
-*GrandinAPK — Documentation publique Android — 21 octobre 2026.*
+*GrandinAPK — Catalogue des dernières APK publiées — 25 octobre 2026.*
