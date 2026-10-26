@@ -2,6 +2,14 @@
 
 **Page publique officielle des applications GrandinAPK pour téléphone et tablette Android.**
 
+## 🧰 Suivi de Chantier V2.3.4 — disponible sur Android
+
+**[Télécharger l’APK V2.3.4 signée](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/suivi-de-chantier-v2.3.4/SuiviDeChantier-v2.3.4-code28-SIGNEE.apk)** — code 28. Reçus PDF, photos avant/après, partage SMS/e-mail, corrections historisées et statut modifiable après émission du reçu.
+
+📦 **[Release V2.3.4](https://github.com/kgrandin49-star/grandinapk-downloads/releases/tag/suivi-de-chantier-v2.3.4)** · 🔐 **[SHA-256](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/suivi-de-chantier-v2.3.4/SuiviDeChantier-v2.3.4-code28-SIGNEE.apk.sha256)**
+
+Installer par-dessus la version existante sans désinstaller. Sauvegarder les données JSON avant installation.
+
 ## 🏫 Révise ton collège V12 — disponible sur Android
 
 **[Télécharger l'APK V12 signée](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/revise-ton-college-v12/ReviseTonCollege-v12-SIGNED.apk)** — code 12, version 8.3-college, mise à jour de Révise ta 5e.
@@ -21,7 +29,7 @@ Les essais sur Samsung ont confirmé le remplissage de fiches, la sauvegarde, l'
 | Application | Version | Télécharger l'APK signée |
 |---|---|---|
 | **Révise ton collège** — Révisions scolaires (6e, 5e, 4e, 3e) | **V12 · code 12** | **[Télécharger Révise ton collège V12](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/revise-ton-college-v12/ReviseTonCollege-v12-SIGNED.apk)** |
-| **Suivi de chantier** — Suivi des chantiers | 2.2.0 (code 22) | **[Télécharger Suivi de chantier](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/v1.0.0/SuiviDeChantier.apk)** |
+| **Suivi de chantier** — Suivi des chantiers | **2.3.4 (code 28)** | **[Télécharger Suivi de chantier V2.3.4](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/suivi-de-chantier-v2.3.4/SuiviDeChantier-v2.3.4-code28-SIGNEE.apk)** |
 | **ÉcriFacile Suite CM2** — Écriture et français, dossiers et fiches PDF | **1.2.4 (code 18) — préversion** | **[Télécharger ÉcriFacile CM2 V1.2.4](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/ecrifacile-cm2-v1.2.4-test/EcriFacile_CM2_v18_SIGNEE.apk)** |
 | **Notre Arbre** — Généalogie collaborative | **1.0.4 (code 5) — test** | **[Télécharger Notre Arbre V1.0.4](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/notre-arbre-v1.0.4-test/NotreArbre-1.0.4-signed.apk)** |
 

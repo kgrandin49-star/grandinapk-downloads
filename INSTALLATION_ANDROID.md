@@ -17,10 +17,10 @@ Les applications prévues sont :
 | Application | Version disponible | Nom du fichier de publication |
 |---|---|---|
 | **Révise ton collège** | **V12 (code 12)** | **`ReviseTonCollege-v12-SIGNED.apk`** |
-| Suivi de chantier | 2.2.0 (code 22) | `SuiviDeChantier.apk` |
+| Suivi de chantier | **2.3.4 (code 28)** | `SuiviDeChantier-v2.3.4-code28-SIGNEE.apk` |
 | ÉcriFacile Suite CM2 | **1.2.4 (code 18), préversion** | `EcriFacile_CM2_v18_SIGNEE.apk` |
 
-**Téléchargements directs :** [Révise ton collège V12](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/revise-ton-college-v12/ReviseTonCollege-v12-SIGNED.apk) · [ÉcriFacile V1.2.4 — préversion](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/ecrifacile-cm2-v1.2.4-test/EcriFacile_CM2_v18_SIGNEE.apk) · [Toutes les Releases](https://github.com/kgrandin49-star/grandinapk-downloads/releases).
+**Téléchargements directs :** [Révise ton collège V12](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/revise-ton-college-v12/ReviseTonCollege-v12-SIGNED.apk) · [ÉcriFacile V1.2.4 — préversion](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/ecrifacile-cm2-v1.2.4-test/EcriFacile_CM2_v18_SIGNEE.apk) · [Suivi de Chantier V2.3.4](https://github.com/kgrandin49-star/grandinapk-downloads/releases/download/suivi-de-chantier-v2.3.4/SuiviDeChantier-v2.3.4-code28-SIGNEE.apk) · [Toutes les Releases](https://github.com/kgrandin49-star/grandinapk-downloads/releases).
 
 ## 2. Installer le fichier APK
 
